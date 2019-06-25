@@ -1,0 +1,7 @@
+### install/start/stop mysql
+brew search mysql
+brew install mysql@5.7
+brew uninstall mysql@5.7
+brew services start mysql@5.7
+brew services stop mysql@5.7
+
