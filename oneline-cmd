@@ -5,3 +5,15 @@ brew uninstall mysql@5.7
 brew services start mysql@5.7
 brew services stop mysql@5.7
 
+### ps and grep
+ps aux | grep mysql
+
+### kill pid
+kill -9 pid
+
+### git cmd
+git status
+git diff
+git add filename
+git commit -m "commit message."
+git push
