@@ -23,3 +23,6 @@ git commit -m "add git/kill/ps cmd."
 git status
 git log
 git push
+
+git log
+git show commitid
