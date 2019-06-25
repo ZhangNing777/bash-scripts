@@ -14,6 +14,12 @@ kill -9 pid
 ### git cmd
 git status
 git diff
-git add filename
-git commit -m "commit message."
+
+git add oneline-cmd
+git status
+git diff --cached
+
+git commit -m "add git/kill/ps cmd."
+git status
+git log
 git push
